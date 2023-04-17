@@ -39,11 +39,6 @@ function App() {
           <p>{ summary }</p>
         </div></> }
 
-        <h4>Summary text</h4>
-        <div className="text-box">
-          <p>Summary</p>
-        </div>
-
         <br />
         <br />
       </main>
